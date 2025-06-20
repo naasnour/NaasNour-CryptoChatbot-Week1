@@ -2,6 +2,7 @@
 Rule-based AI chatbot for crypto investment advice using Python
 
 # NaasNour – Crypto Chatbot 
+Summary : NaasNour the CryptoBot uses rule-based logic to simulate simple AI decision-making. It analyzes predefined data and gives advice based on price trends and sustainability. Though it doesn’t “think” like humans, it mimics intelligence by using condition checks and structured responses to support informed choices.
 
 This is a beginner-friendly, rule-based AI chatbot built in Python. It analyzes predefined data on cryptocurrencies and gives investment advice focused on:
 
